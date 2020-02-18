@@ -605,6 +605,18 @@ footer {
     padding: 15px
 }
 
+.project-info li {
+    display: inline-block;
+    margin: 7px;
+    padding: 5px 10px;
+    color: #fff;
+    background: #3498db;
+    list-style: none;
+    cursor: default;
+    font-size: 0.9em;
+    border-radius: 40px;
+}
+
 .project-info h3 {
     font-size: 1.5em;
     font-weight: 300;
