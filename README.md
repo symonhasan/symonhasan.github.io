@@ -1,1 +1,0 @@
-# symonhasan.github.io
