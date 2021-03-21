@@ -7,7 +7,7 @@ export function Navigation(props){
         <div id="mobile-menu-close">
             <span>Close</span> <i className="fa fa-times" aria-hidden="true"></i>
         </div>
-        <ul id="menu" className="shadow">
+        <ul id="menu">
             <li>
                 {"<Symon Hasan />"}
             </li>

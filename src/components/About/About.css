@@ -1,0 +1,10 @@
+#about{
+    padding: 10px 0px;
+}
+.img-div img{
+    border-radius: 50%;
+}
+
+.about-text{
+    font-size: 1.2rem;
+}
