@@ -1,0 +1,15 @@
+#experience{
+    padding: 3rem 0px;
+}
+
+.exp-item{
+    padding: 10px;
+}
+
+.exp-item img{
+    padding-bottom: 1rem;
+}
+
+.exp-item h2{
+    color: #fff
+}
